@@ -1,0 +1,19 @@
+[03-Dec-2018 03:47:40 UTC] Database dump method: mysqldump
+[03-Dec-2018 03:47:40 UTC] Class ZipArchive
+[03-Dec-2018 03:47:40 UTC] number_of_existing_backups
+[03-Dec-2018 03:47:40 UTC] 1
+[03-Dec-2018 03:47:40 UTC] number_of_backups_from_user
+[03-Dec-2018 03:47:40 UTC] 
+[03-Dec-2018 03:47:40 UTC] mail send
+[04-Dec-2018 04:12:23 UTC] Database dump method: mysqldump
+[04-Dec-2018 04:12:23 UTC] Class ZipArchive
+[04-Dec-2018 04:12:23 UTC] number_of_existing_backups
+[04-Dec-2018 04:12:23 UTC] 1
+[04-Dec-2018 04:12:23 UTC] number_of_backups_from_user
+[04-Dec-2018 04:12:23 UTC] 
+[05-Dec-2018 04:05:05 UTC] Database dump method: mysqldump
+[05-Dec-2018 04:05:05 UTC] Class ZipArchive
+[05-Dec-2018 04:05:05 UTC] number_of_existing_backups
+[05-Dec-2018 04:05:05 UTC] 2
+[05-Dec-2018 04:05:05 UTC] number_of_backups_from_user
+[05-Dec-2018 04:05:05 UTC] 3
